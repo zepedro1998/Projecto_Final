@@ -1,28 +1,66 @@
   body{
-  text-align: center;
-  color: #FF0000;
-  font-family: Arial Black;
-  font-size: 15px;
-  margin: 200px;
-  margin-top: 50px;
-  background-image: url(jungle.gif);
-  
+background-color: #FF0000;
+  padding: 0;
+  margin: 0;  
 }
 
-body{
-  margin: 0
-  height: 100%;
-  cursor: url(Beef-PNG-Image-HD.png), auto;
-}
-h1 {
-    font-size: 60px;
+.container{
 
-.cursor{
-width: 100px;
-height: 100px;
-position: absolute;
-
+   width: 690px; 
+   height:220px;
+   position: absolute; 
+   margin: auto;
+   top: 0;
+   bottom:0;
+   left:0;
+   right:0;
+   
 }
 
-
+button{
+   font-size:30px
+   background-color:#b8860b;
+   border: 5px;
+   outline:none;
+   font-family: "PT Sans Caption", sans-serif;
+   text-transform: uppercase;
+   width:200px;
+   height:20px;
+   padding:;
+   padding-left:40px;
+   padding-right:40px;
+   color:white;
+   margin-left:20px; 
 }
+ button:nth-child(1){
+     cursor: url("T-Rex"),auto;
+ }
+}
+ button:nth-child(2){
+      cursor: url("Mammoth"),auto;
+ }
+}
+ button:nth-child(3){
+      cursor: url("Dodo"),auto;
+ }
+}
+ button:nth-child(4){
+      position: relative;
+      left:140px;
+      top:30px;
+      cursor: url("Triceratops"),auto;
+ }
+}
+ button:nth-child(5){
+      position: relative; 
+      left:30px;
+      top:140px;
+      cursor: url("Apatosaurus"),auto;
+ }
+}
+ button:nth-child(6){
+      position:relative;
+      left:;
+      top:;
+      cursor: url("Centipede"),auto;
+ }
