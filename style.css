@@ -1,0 +1,30 @@
+body{
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat; background-size: cover;
+  background-image: url(jungle.gif);
+  cursor: (Beef-PNG-Image-HD.png);
+  overflow: hidden;
+
+}
+
+body{
+  background-color: #04009a;
+  text-align: center;
+  color: #77acf1;
+  font-family: Courier New;
+  font-size: 15px;
+  margin: 200px;
+  margin-top: 50px;
+}
+
+h1 {
+    font-size: 20px;
+
+}
+
+
+
+
+
+
