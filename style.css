@@ -1,4 +1,4 @@
-body{
+  body{
   text-align: center;
   color: #FF0000;
   font-family: Arial Black;
@@ -12,7 +12,17 @@ body{
 body{
   margin: 0
   height: 100%;
-  cursor: url(Beef-PNG-Image-HD.png);
+  cursor: url(Beef-PNG-Image-HD.png), auto;
 }
 h1 {
     font-size: 60px;
+
+.cursor{
+width: 100px;
+height: 100px;
+position: absolute;
+
+}
+
+
+}
