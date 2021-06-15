@@ -1,4 +1,4 @@
-  body{
+body{
 background-color: #FF0000;
   padding: 0;
   margin: 0;  
@@ -33,37 +33,36 @@ button{
    margin-left:20px; 
 }
  button:nth-child(1){
-     cursor: url("T-Rex"),auto;
+     cursor: url("T-Rex.png"),auto;
  }
 }
  button:nth-child(2){
-      cursor: url("Mammoth"),auto;
+      cursor: url("Mammoth.png"),auto;
  }
 }
  button:nth-child(3){
-      cursor: url("Dodo"),auto;
+      cursor: url("Dodo.png"),auto;
  }
 }
  button:nth-child(4){
       position: relative;
       left:140px;
       top:30px;
-      cursor: url("Triceratops"),auto;
+      cursor: url("Triceratops.png"),auto;
  }
 }
  button:nth-child(5){
       position: relative; 
       left:30px;
       top:140px;
-      cursor: url("Apatosaurus"),auto;
+      cursor: url("Apatosaurus.png"),auto;
  }
 }
  button:nth-child(6){
       position:relative;
       left:;
       top:;
-      cursor: url("Centipede"),auto;
+      cursor: url("Centipede.png"),auto;
  }
-
 
 
